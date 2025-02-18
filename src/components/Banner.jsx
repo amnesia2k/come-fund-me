@@ -1,5 +1,3 @@
-"use client";
-
 import { useState } from "react";
 import Confetti from "react-confetti";
 import { X, Copy, CreditCard, User, PiggyBank } from "lucide-react";
